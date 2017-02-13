@@ -2,6 +2,18 @@
 
 Mobile-first website to address the issue of school lunch debt within the District.
 
+## How we built it
+
+We used the MEAN stack to implement the web application. We used the Nessie API to connect directly with bank accounts and improve ease of use. We used python to read .csv files and rapidly scrub information. We used Amazon Web Services to host our app with Cloudfront.
+
+## Challenges we ran into
+
+* Connecting the back-end with the front-end
+
+## Accomplishments that we're proud of
+
+* Implementing a multi-factor authenticated user registration system within the MEAN stack
+
 ## Todo
 
 Short term:
